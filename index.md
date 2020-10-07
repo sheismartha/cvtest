@@ -1,7 +1,4 @@
-<html>
-<head></head>
-<body>
-  
+
 ![](profile-image.png)
 
 # Λεμονιά Καραγιαννάκη
@@ -49,11 +46,6 @@ Systems |	Linux, OSX
 
 
 
-</body>
-</html>
-
-  
-  
   
   
   
