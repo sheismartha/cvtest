@@ -5,7 +5,7 @@
 # Λεμονιά Καραγιαννάκη
 
 **Δημόσιος Υπάλληλος**
-![Image of Yaktocat](cvtest/profile-image.png )
+![](profile-image.png )
 
 _ | Πληροφορίες
 ------------ | -------------
